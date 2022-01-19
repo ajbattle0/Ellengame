@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Character Setup Files/scenes/Character setup scene.unity
+  isLoaded: 1
+  isActive: 1
